@@ -1,4 +1,8 @@
-# CIFAR-10 training using PyTorch.
+# Nanyang Technological University IE4483 Artificial Intelligence and Data Mining
+
+This folder contains the notes and class project.
+
+## CIFAR-10 training using PyTorch.
 
 This code requires a pytorch environment which you can install using either `conda` or `pip`.
 
