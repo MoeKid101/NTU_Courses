@@ -1,6 +1,6 @@
 # Nanyang Technological University IE4483 Artificial Intelligence and Data Mining
 
-This folder contains the notes and class project.
+This folder contains the notes and class project. Final grade: A+.
 
 ## CIFAR-10 training using PyTorch.
 
